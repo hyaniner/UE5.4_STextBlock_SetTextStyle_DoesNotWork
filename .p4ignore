@@ -1,0 +1,15 @@
+/.idea/
+/.vs/
+/Binaries/
+/Build/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Plugins/**/.idea/
+/Plugins/**/.vs/
+/Plugins/**/Binaries/
+/Plugins/**/Build/
+/Plugins/**/DerivedDataCache/
+/Plugins/**/Intermediate/
+*.vsconfig
+*.sln
